@@ -1,9 +1,8 @@
 # aniML
 AniML : Automatic scoring prediction
-of Japanese Animation
-Valentin KAO and Emile JONAS
-Department of Computer Sciences
-Tsinghua University
+of Japanese Animation by 
+Valentin KAO and Emile JONAS from
+Tsinghua University/EPITECH
 
 Being able to predict the future smash hits is of great
 importance in decision making specially in the marketing.
